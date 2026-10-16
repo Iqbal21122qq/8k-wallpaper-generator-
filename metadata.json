@@ -1,0 +1,6 @@
+{
+  "name": "Singularity 8K - Cosmic Black Hole Live Wallpaper & Video",
+  "description": "Transform static cosmic black holes into mesmerizing 8K moving live wallpapers with Veo 3 video generation, Gemini 4 Argon deep thinking physics, and interactive mobile lock-screen simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
